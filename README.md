@@ -1,7 +1,7 @@
 # InterWinnerAI
-### 👥 Takım Üyeleri
+### 👥 Team Members
 
-| İsim | Unvan |
+| Name | Role |
 | :--- | :--- |
 | **Aslıhan Yeşilyurt Şengül** | Scrum Master |
 | **Pelin Çelik** | Product Owner |
@@ -10,67 +10,69 @@
 | **Burak Ege Kaya** | Developer |
 
 <details>
-  <summary><h2>🎯 Ürün Açıklaması </h2></summary>
+  <summary><h2>🎯 Product Description </h2></summary>
   <br>
 
-Günümüzün son derece rekabetçi iş piyasasında, sadece güçlü bir özgeçmişe sahip olmak ne yazık ki tek başına yeterli olmamakta; hayalindeki işe kabul edilmenin yolu, mülakat aşamasında doğru ve etkili bir performans sergilemekten geçmektedir. Birçok iş arayan, başvurduğu pozisyonun tam olarak ne tür sorular getireceğini öngöremediği için mülakat sürecinde büyük bir stres ve heyecan yaşamaktadır. **InterWinnerAI**, iş arayanların mülakat öncesindeki bu belirsizliklerini ortadan kaldıran ve onları gerçek birer mülakat profesyoneline dönüştüren yapay zeka destekli yenilikçi bir hazırlık ve simülasyon platformudur.
+*Please note that the product's original GitHub repo is in Turkish. The English translation is provided here to increase accessibility.*
 
-Uygulama, iş arama sürecini tamamen kişiselleştirerek kullanıcıların mülakatlara kusursuz bir şekilde hazırlanmasını sağlayan uçtan uca bir deneyim sunar. Süreç, kullanıcıların kendi güncel özgeçmişlerini ve hedefledikleri şirkete ait iş ilanının detaylarını sisteme kolayca yüklemeleriyle başlar. Gelişmiş yapay zeka algoritmamız, yüklenen CV ile iş tanımını derinlemesine analiz ederek o pozisyona özel mülakat soruları üretir ve kullanıcıyla birebir interaktif bir ön mülakat simülasyonu gerçekleştirir. Minimalist tasarımı ve kullanıcı dostu arayüzü sayesinde iş arayanlar, hiçbir teknik zorluk yaşamadan doğrudan mülakat pratiklerine odaklanabilir ve platforma hızla adapte olabilirler.
+In today's highly competitive job market, having a strong résumé alone is unfortunately not enough. To land your dream job, you need to deliver a strong, effective performance during the interview. Many job seekers experience great stress and anxiety during the interview process because they cannot predict exactly what kinds of questions the position they applied for will bring. InterWinnerAI is an innovative, AI-powered preparation and simulation platform that removes this uncertainty before the interview and turns job seekers into true interview professionals.
 
-**Sonuç olarak;** yapay zekanın gücünü arkasına alan **InterWinnerAI**, geleneksel ve stresli mülakat hazırlığı dönemini kapatarak interaktif bir deneyim çağı başlatmaktadır. İş arayanların potansiyellerini en doğru şekilde yansıtmalarına odaklanan bu platform; belirsizlikleri ortadan kaldırır, eksikleri avantaja çevirir ve kariyer hedeflerinize giden yoldaki en güvenilir rehberiniz olur.
+The application fully personalizes the job search process and offers an end-to-end experience that helps users prepare for interviews flawlessly. The process begins with users easily uploading their current résumé and the job posting details from their target company. Our advanced AI algorithm analyzes the uploaded CV and job description in depth, generates interview questions specific to the position, and conducts a one-on-one interactive mock interview simulation with the user. Thanks to its minimalist design and user-friendly interface, job seekers can focus on interview practice without technical difficulty and adapt to the platform quickly.
+
+In conclusion, powered by artificial intelligence, **InterWinnerAI** brings the traditional, stressful era of interview preparation to a close and ushers in an age of interactive experience. Focused on helping job seekers reflect their potential in the best possible way, this platform removes uncertainty, turns weaknesses into advantages, and becomes your most reliable guide on the path to your career goals.
 
 </details>
 
-## 🚀 Ürün Özellikleri 
+## 🚀 Product Features 
 
 <details>
-  <summary><b>🔐 1. Kimlik Doğrulama ve Güvenlik</b></summary>
+  <summary><b>🔐 1. Authentication and Security</b></summary>
   <br>
 
-* **Sisteme Giriş Yap:** Kullanıcılar, kayıtlı kullanıcı adları veya Gmail adresleri ile şifrelerini girerek platforma güvenli bir şekilde erişebilirler. Ekran, "Şifremi Unuttum?" seçeneğiyle şifre kurtarma desteği sunar. 
-* **Yeni Hesap Oluştur:** İş arayanların kullanıcı adı, ad, soyad, Gmail adresi, telefon numarası ve şifre bilgilerini girerek sisteme hızlıca kayıt olabileceği kullanıcı dostu bir kayıt ekranıdır.
-* **Şifre Yenileme / Güncelleme:** Şifresini unutan kullanıcıların hesap güvenliğini korumak amacıyla, sistemde kayıtlı olan 5 kritik kimlik bilgisini eksiksiz doğrulayarak yeni şifre belirleyebilecekleri güvenli bir yapı sunar.
-
-</details>
-
-<details>
-  <summary><b>📂 2. Aday Paneli ve Dosya Yönetimi</b></summary>
-  <br>
-
-* **Güvenli CV Yükleme (Sadece PDF):** İş arayan kullanıcılar, güncel özgeçmişlerini sadece PDF formatında olacak şekilde sisteme kolayca yükleyebilirler. Yüklenecek dosyalar, yapay zeka analizi için yerel sunucumuzda güvenle saklanır. 
-* **Profil Fotoğrafı Güncelleme:** Kullanıcılar, aday panellerini kişiselleştirmek için kendi profil fotoğraflarını seçip güncelleyebilirler.
-* **Dinamik CV Durum Takibi:** Kullanıcının henüz bir CV yükleyip yüklemediğini gerçek zamanlı olarak kontrol eden ve kullanıcıyı PDF yüklemeye yönlendiren bilgilendirici bir durum panosu içerir.
+* **Log In:** Users can securely access the platform by entering their registered username or Gmail address and their password. The screen offers password recovery support through the "Forgot Password?" option.
+* **Account Creation:** A user-friendly registration screen where job seekers can quickly sign up by entering their username, first name, last name, Gmail address, phone number, and password.
+* **Password Reset / Update:** To protect the account security of users who have forgotten their password, this offers a secure structure where they can set a new password by fully verifying the 5 critical pieces of identity information registered in the system.
 
 </details>
 
 <details>
-  <summary><b>⚙️ 3. Hesap ve Profil Ayarları</b></summary>
+  <summary><b>📂 2. Candidate Tab and File Management</b></summary>
   <br>
 
-* **Profil Bilgilerini Düzenleme:** Kullanıcılar benzersiz kullanıcı adları sabit kalmak şartıyla; ad, soyad, e-posta ve telefon numarası gibi kişisel bilgilerini istedikleri zaman güncelleyebilirler.
-* **Profil İçi Şifre Değiştirme:** Kullanıcılar hesaplarına giriş yapmış durumdayken, mevcut şifrelerini doğrulayıp yeni bir şifre girerek güvenlik ayarlarını panel üzerinden kolayca güncelleyebilirler.
+* **Secure CV Upload (PDF Only):** Job seekers can easily upload their current résumé to the system, in PDF format only. The system securely stores uploaded files on our local server for AI analysis. 
+* **Profile Photo Update:** Users can select and update their own profile photos to personalize their candidate panels.
+* **Dynamic CV Status Tracking:** Includes an informative status board that checks in real time whether the user has uploaded a CV yet and guides the user to upload a PDF.
 
 </details>
 
 <details>
-  <summary><h2>👥 Hedef Kitle </h2></summary>
+  <summary><b>⚙️ 3. Account and Profile Settings</b></summary>
   <br>
 
-Uygulamamız; özgeçmişleri ile gerçek mülakat beklentileri arasındaki boşluğu yapay zeka yardımıyla doldurmak isteyen tüm iş arayanlara, kariyerini değiştirenlere ve öğrencilere hitap etmektedir.
+* **Edit Profile Information:** Users can update their personal information, such as first name, last name, email, and phone number, at any time, provided that their unique username remains unchanged.
+* **Change Password Within Profile:** While logged in to their accounts, users can easily update their security settings from the panel by verifying their current password and entering a new one.
 
-### 🎓 Yeni Mezunlar ve Öğrenciler:
-* **Mülakat Hazırlığı:** İş gücü piyasasına yeni adım atacak olan ve profesyonel mülakat deneyimi olmayan öğrenciler ile yeni mezunlar.
-* **Özgeçmiş Optimizasyonu:** Üniversite projelerinin ve stajlarının, hedefledikleri iş ilanlarındaki beklentilerle ne kadar uyuştuğunu anlamak isteyen genç yetenekler.
-* **Kaygı Yönetimi:** Gerçek mülakatlar öncesinde yapay zeka destekli güvenli bir ortamda pratik yaparak mülakat stresini ve heyecanını azaltmak isteyen bireyler.
+</details>
 
-### 💼 Aktif İş Arayanlar:
-* **Nokta Atışı Hazırlık:** Belirli kurumsal pozisyonlara aktif olarak başvuran ve o pozisyonun getirebileceği özel sorulara karşı antrenman yapmak isteyen adaylar.
-* **Özgüven Artırma:** İnsan kaynakları veya teknik ekiplerin karşısına çıkmadan önce kendi yetkinliklerini test etmek ve yapıcı geri bildirimler almak isteyen iş arayanlar.
-* **Kritik Eksik Analizi:** Yapay zekanın hesapladığı uyumluluk skoruna göre, özgeçmişlerinde hangi anahtar kelimeleri veya yetenekleri öne çıkarmaları gerektiğini keşfetmek isteyenler.
+<details>
+  <summary><h2>👥 Target Audience </h2></summary>
+  <br>
 
-### 🔄 Kariyer Değiştirmek İsteyenler:
-* **Sektörel Adaptasyon:** Mevcut sektöründen farklı bir alana geçiş yapmak isteyen ve ellerindeki CV'yi tamamen yeni bir iş kolunun gereksinimlerine göre test etmek isteyen profesyoneller.
-* **Kişisel Durum Değerlendirmesi:** Geçmiş iş deneyimlerinin, adım atacakları yeni sektördeki mülakatlarda nasıl karşılık bulacağını simüle etmek isteyen bireyler.
+Our application is aimed at all job seekers, career changers, and students who want to close the gap between their résumés and real interview expectations with the help of AI.
+
+### 🎓 Fresh Graduates and Students::
+* **Interview Preparation:** Students and new graduates who are about to enter the workforce and have no professional interview experience.
+* **Résumé Optimization:** Young talents who want to understand how well their university projects and internships match the expectations in the job postings they are targeting.
+* **Anxiety Management:** Individuals who want to reduce interview stress and nervousness by practicing in a safe, AI-powered environment before real interviews.
+
+### 💼 Active Job Seekers:
+* **Pinpoint Preparation:** Candidates who are actively applying for specific corporate positions and want to train for the particular questions those positions may bring.
+* **Confidence Building:** Job seekers who want to test their own competencies and receive constructive feedback before facing human resources or technical teams.
+* **Critical Gap Analysis:** Those who want to discover which keywords or skills they should highlight in their résumés, based on the compatibility score calculated by the AI.
+
+### 🔄 Career Changers:
+* **Sector Adaptation:** Professionals who want to move from their current sector to a different field and want to test their existing CV against the requirements of a completely new line of work.
+* **Personal Situation Assessment:** Individuals who want to simulate how their past work experience will be received in interviews in the new sector they are about to enter.
 
 </details>
 

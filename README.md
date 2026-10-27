@@ -1,5 +1,15 @@
 # InterWinnerAI
 
+## Team Members
+
+| Name | Role |
+| :--- | :--- |
+| **Aslıhan Yeşilyurt Şengül** | Product Owner & Scrum Master |
+| **Pelin Çelik** | Product Owner |
+| **Betül Bilici** | Developer |
+| **Abdulkadir Süslü** | Developer |
+| **Burak Ege Kaya** | Developer |
+
   <summary><h2>Executive Summary </h2></summary>
 
 **InterWinnerAI** is an AI-powered interview preparation and simulation platform that helps job seekers confidently prepare for real-world interviews. By combining résumé and job-description analysis with personalized interview questions and interactive mock interviews, the platform delivers a tailored, end-to-end preparation experience for each target role.

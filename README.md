@@ -1,13 +1,4 @@
 # InterWinnerAI
-### 👥 Team Members
-
-| Name | Role |
-| :--- | :--- |
-| **Aslıhan Yeşilyurt Şengül** | Scrum Master |
-| **Pelin Çelik** | Product Owner |
-| **Betül Bilici** | Developer |
-| **Abdulkadir Süslü** | Developer |
-| **Burak Ege Kaya** | Developer |
 
 <details>
   <summary><h2>🎯 Product Description </h2></summary>
